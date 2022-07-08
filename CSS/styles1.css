@@ -197,7 +197,7 @@ footer {
         size-adjust: 20%;
     }
     .skills {
-        text-size-adjust: 100%;
+        text-size-adjust: 50%;
     }
 }
 
@@ -280,6 +280,5 @@ footer {
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
-  .form .goback {
-    margin-left: 250px;
-  }
+ 
+ 
