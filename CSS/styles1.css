@@ -89,7 +89,8 @@ body{
     color: #11999E;
 }
 .skill_row .development, .datascience {    
-    width: 55%;
+    font-family: 'Merriweather', serif;
+    width: 56%;
     margin: 100px auto 100px auto;
     text-align: left; 
     line-height: 2;
@@ -178,6 +179,9 @@ footer {
     color: #11999E;
     padding: 50px;
     text-decoration: none;
+}
+.contact_links a:hover{
+    color: #E4F9F5;
 }
 
 .copyright {
